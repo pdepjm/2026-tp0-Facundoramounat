@@ -16,7 +16,10 @@ Hola 🫡, esto es una breve y presentacion sobre mi para la materia **Paradigma
 # Mis hobbies 🏓
 - Entrenar en el gimnasio 🦾
 - Desarrollar aplicaciones sencillas 🙄
-- Cocinar 🍳
+- Cocinar 🍳 (Adjunto pruebas)
+
+<img src="/Foto.jpg" width="200">
+
 
 # Mis apps hasta el momento 👏
 1. 'Anotador' (El nombre mas vago), es un anotador para llevar registro sobre las series y pesos utilizados en tu sesion de entrenamiento 📝
