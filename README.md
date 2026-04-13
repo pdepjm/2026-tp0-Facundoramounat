@@ -18,7 +18,7 @@ Hola 🫡, esto es una breve y presentacion sobre mi para la materia **Paradigma
 - Desarrollar aplicaciones sencillas 🙄
 - Cocinar 🍳 (Adjunto pruebas)
 
-<img src="/Foto.jpg" width="200">
+<img src="/Foto.jpg" width="200">  <img src="/Foto2.jpg" width="200">
 
 
 # Mis apps hasta el momento 👏
